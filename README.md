@@ -1,17 +1,9 @@
+# The most needed icons
+
+Preview. Thanks Timur Minvaleev for icons.
+------------------------------------------
+
 ![alt text](https://psv4.userapi.com/c816138/u46413997/docs/5e031941ca39/icons-preview.png?extra=QON6mdrytVk8ZF3bUAaDBEvAMPXPjkcE13dpSTxYfp3-6Rik3gWTHvUN_2OMmc6-KogaosWA3El4SArF536U-p636Q5waG3i2NSe4D2VR7z1uuDKhtoWIMunjkEwi1ztZozVw90WeA)
-
-Please, note, that you should obey original font licenses, used to make this
-webfont pack. Details available in LICENSE.txt file.
-
-- Usually, it's enough to publish content of LICENSE.txt file somewhere on your
-  site in "About" section.
-
-- If your project is open-source, usually, it will be ok to make LICENSE.txt
-  file publicly available in your repository.
-
-- Fonts, used in Fontello, don't require a clickable link on your site.
-  But any kind of additional authors crediting is welcome.
-================================================================================
 
 
 Comments on archive content
