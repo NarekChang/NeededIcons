@@ -6,6 +6,8 @@ Fast navigation:
 - [Why so many CSS files ?](#why-so-many-css-files-)
 - [Attention for server setup](#attention-for-server-setup)
 
+Thanks for stars!
+
 Preview. Thanks Timur Minvaleev for icons.
 ------------------------------------------
 
