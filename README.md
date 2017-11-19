@@ -1,9 +1,10 @@
 # The most needed icons
 
-[create an anchor](#preview-thanks-timur-minvaleev-for-icons)
-[create an anchor](#comments-on-archive-content)
-[create an anchor](#why-so-many-css-files-)
-[create an anchor](#attention-for-server-setup)
+Fast navigation: 
+- [Preview](#preview-thanks-timur-minvaleev-for-icons)
+- [Comments on archive content](#comments-on-archive-content)
+- [Why so many CSS files ?](#why-so-many-css-files-)
+- [Attention for server setup](#attention-for-server-setup)
 
 Preview. Thanks Timur Minvaleev for icons.
 ------------------------------------------
