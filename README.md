@@ -11,7 +11,7 @@ Thanks for stars!
 Preview. Thanks Timur Minvaleev for icons.
 ------------------------------------------
 
-![alt text](https://psv4.userapi.com/c816138/u46413997/docs/5e031941ca39/icons-preview.png?extra=QON6mdrytVk8ZF3bUAaDBEvAMPXPjkcE13dpSTxYfp3-6Rik3gWTHvUN_2OMmc6-KogaosWA3El4SArF536U-p636Q5waG3i2NSe4D2VR7z1uuDKhtoWIMunjkEwi1ztZozVw90WeA)
+![alt text](https://github.com/NarekChang/NeededIcons/blob/master/icons-preview.png?raw=true)
 
 [Give thanks](https://money.yandex.ru/to/410013049980780)
 ---------------------------
